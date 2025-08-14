@@ -1,0 +1,52 @@
+// Program Name: Henry's Initials 
+// Description: This program prints out Henry initals 
+// Date: 8/14/2025
+// Programmer: Henry Chen 
+
+public class Main {
+    public static void main(String[] args) {
+    System.out.println("____ ______ ____");
+    System.out.println("|HH|  |   | |HH|");
+    System.out.println("|HH|  |   | |HH|");
+    System.out.println("|HH|  |   | |HH|");
+    System.out.println("|HH|  |HHH| |HH|");
+    System.out.println("|HH|  |HHH| |HH|");
+    System.out.println("|HH|  |   | |HH|");
+    System.out.println("|HH|  |   | |HH|");
+    System.out.println("|HH|  |   | |HH|");
+    System.out.println("---- ------ ----");
+    System.out.println("____ ______ ____");
+    System.out.println("BBBBBBBBBBBBBBBB");
+    System.out.println("BB             BB");
+    System.out.println("BB             BBB ");
+    System.out.println("BB             BBBB");
+    System.out.println("BB             BBB");
+    System.out.println("BB             BB");
+    System.out.println("BBBBBBBBBBBBBBBB");
+    System.out.println("BBBBBBBBBBBBBBBB");
+    System.out.println("BB             BB");
+    System.out.println("BB             BBB ");
+    System.out.println("BB             BBBB");
+    System.out.println("BB             BBB");
+    System.out.println("BB             BB");
+    System.out.println("BBBBBBBBBBBBBBBB");
+    System.out.println("---- ------ ----");
+    System.out.println("____ ______ ____");
+    System.out.println(" CCCCCCCCCCCCCCCC");
+    System.out.println(" CCCC          CC");
+    System.out.println(" CCCC               ");
+    System.out.println("CCC                ");
+    System.out.println("CC");
+    System.out.println("C");
+    System.out.println("C");
+    System.out.println(" CC");
+    System.out.println(" CCCCC          CC");
+    System.out.println(" CCCCCCCCCCCCCCCC");
+    
+    
+    
+    
+    
+    
+}
+}
